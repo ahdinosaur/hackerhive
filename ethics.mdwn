@@ -6,16 +6,16 @@
   - bees have sets of skills
   - bees have sets of work
 
-## goals:
+## observations:
+- hives are extremely interdependent
+- [conscious beings suffer]("http://alexox.com/sangha/StephenBatchelor-BuddhismwithoutBeliefs.pdf")
+- [bazaar > cathedral]("http://www.catb.org/esr/writings/homesteading/cathedral-bazaar#catbmain")
+- [resources are better shared]("http://opensourceecology.org/wiki/Open_Source_Ecology_Paradigm")
+- privacy is dying
+
+## path:
 - contribute to the most hives
 - minimize harm to bees
 - make hives transparent
 - freely share cells
 - respect bee privacy
-
-## ideal cases:
-- hives benefit when all hives benefit.
-- bee harm is minimized when hives are harmless.
-- hives are transparent when every bee is transparent about hive.
-- cells are shared when all hives share cells.
-- bees can be private when all bees allow privacy.
