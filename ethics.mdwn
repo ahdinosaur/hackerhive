@@ -1,0 +1,21 @@
+terminology:
+- hive = set of hives and bees
+  - hives have sets of cells
+- cell = physical or virtual resource
+- bee = skilled worker
+  - bees have sets of skills
+  - bees have sets of work
+
+goals:
+- contribute to the most hives
+- minimize harm to bees
+- make hives transparent
+- freely share cells
+- respect bee privacy
+
+ideal cases:
+- hives benefit when all hives benefit.
+- bee harm is minimized when hives are harmless.
+- hives are transparent when every bee is transparent about hive.
+- cells are shared when all hives share cells.
+- bees can be private when all bees allow privacy.

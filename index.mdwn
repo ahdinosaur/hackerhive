@@ -1,5 +1,25 @@
-join the hive.
+# hacker hive
+
+## the idea
+
+the hacker hive is an idea for prototype housing cooperatives started by the UC Berkeley hacker community.
+
+anyone can join the hive. everything is a work in progress by the hive.
+
+join the hive at hackerhive@riseup.net!
+
+## the implementation
+
+- [[ethics]]
+
+### todo
+- introduction content on wiki
+- get location for first critical mass meeting
+
+### changelog
+- purchase hackerhive.net domain - CHECK dinosaur
+- setup hackerhive@riseup.net mailing list - CHECK dinosaur
 
 ----
 
-this wiki is powered by [[ikiwiki]].
+this wiki is powered by [[ikiwiki]]. all content is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0" rel="license">Creative Commons Attribution ShareAlike 3.0 Unported License</a>.
