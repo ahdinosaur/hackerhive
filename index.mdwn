@@ -6,7 +6,7 @@ the hacker hive is an idea for prototype housing cooperatives started by the UC 
 
 anyone can join the hive. everything is a work in progress by the hive.
 
-join the hive at hackerhive@riseup.net!
+join the hive at <hackerhive@riseup.net>!
 
 ## the implementation
 
