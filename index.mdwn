@@ -2,19 +2,53 @@
 
 ## the idea
 
-the hacker hive is an idea for prototype housing cooperatives started by the UC Berkeley hacker community.
+the hacker hive is project to make [prototype](http://seasteading.wpengine.netdna-cdn.com/files/research/governance/Friedman&Taylor_2011_Seasteading_APEE.pdf) [housing](http://en.wikipedia.org/wiki/Northside,_Berkeley,_California) [cooperatives](http://www.bsc.coop/) started by the [UC Berkeley hacker community](http://hackersatberkeley.com/).
 
-anyone can join the hive. everything is a work in progress by the hive.
+some of us hackers already live together. let's have all hackers live together as the hacker hive, making a larger community with added benefits while retaining our own sub-hives of roommates, friends, and family. anyone can join the hacker hive with infinitely recursive sub-hives.
 
-join the hive at <hackerhive@riseup.net>!
+### join the hive!
+
+inspired by [The Community Pattern](http://hackerspaces.org/wiki/The_Community_Pattern),
+
+#### discussion:
+<FORM ACTION="https://lists.riseup.net/www" METHOD="POST">
+  subscribe to the <hackerhive@riseup.net> mailing list: 
+  <INPUT  NAME="email" SIZE="30">
+  <INPUT TYPE="hidden" NAME="list" VALUE="hackerhive">
+  <INPUT TYPE="hidden" NAME="action" VALUE="subrequest">
+  <INPUT TYPE="submit" NAME="action_subrequest" VALUE="Subscribe">
+</FORM>
+<FORM ACTION="https://lists.riseup.net/www" METHOD="POST">
+  if ever you need to unsubscribe:
+  <INPUT NAME="email" SIZE="30">
+  <INPUT TYPE="hidden" NAME="list" VALUE="hackerhive">
+  <INPUT TYPE="hidden" NAME="action" VALUE="sigrequest">
+  <INPUT TYPE="submit" NAME="action_sigrequest" VALUE="Unsubscribe">
+</FORM>
+
+
+#### instant messaging
+
+TODO: cryptocat documentation
+
+#### documentation
+
+TODO: getting an account and ikiwiki documentation
 
 ## the implementation
 
-- [[ethics]]
+everything is a work in progress by the hive. everything is in motion; nothing is static.
 
 ### todo
-- introduction content on wiki
 - get location for first critical mass meeting
+- achieve [critical mass](http://hackerspaces.org/wiki/The_Critical_Mass_Pattern)
+- introduction content on wiki
+- design ethical axioms over time
+- find shelter for every bee
+- design food and resource gathering systems
+- design maintenance systems
+- design food preparation systems
+- implement basic computer access (shell, ikiwiki, gitweb) - IN PROGRESS dinosaur
 
 ### changelog
 - purchase hackerhive.net domain - CHECK dinosaur
