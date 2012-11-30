@@ -12,20 +12,12 @@ inspired by [The Community Pattern](http://hackerspaces.org/wiki/The_Community_P
 
 #### discussion:
 <FORM ACTION="https://lists.riseup.net/www" METHOD="POST">
-  subscribe to the <hackerhive@riseup.net> mailing list: 
+  subscribe to the [hackerhive@lists.riseup.net](https://lists.riseup.net/www/info/hackerhive) mailing list: 
   <INPUT  NAME="email" SIZE="30">
   <INPUT TYPE="hidden" NAME="list" VALUE="hackerhive">
   <INPUT TYPE="hidden" NAME="action" VALUE="subrequest">
   <INPUT TYPE="submit" NAME="action_subrequest" VALUE="Subscribe">
 </FORM>
-<FORM ACTION="https://lists.riseup.net/www" METHOD="POST">
-  if ever you need to unsubscribe:
-  <INPUT NAME="email" SIZE="30">
-  <INPUT TYPE="hidden" NAME="list" VALUE="hackerhive">
-  <INPUT TYPE="hidden" NAME="action" VALUE="sigrequest">
-  <INPUT TYPE="submit" NAME="action_sigrequest" VALUE="Unsubscribe">
-</FORM>
-
 
 #### instant messaging
 
