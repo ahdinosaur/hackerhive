@@ -1,11 +1,1 @@
-# what is a 'hive'?
 
-a 'hive' is a set of hives and bees stored in ldap. a hive also has a set of cells associated with it.
-
-# what is a 'cell'?
-
-a 'cell' is a physical or virtual resource stored as a repository.
-
-# what is a 'bee'?
-
-a 'bee' is a skilled worker with a set of repositories.
