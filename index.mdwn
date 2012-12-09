@@ -6,6 +6,8 @@ the hacker hive is a [[initiative|init]] to make prototype [housing](http://en.w
 
 some of us hackers already live together and some of us already work together. we invite all hackers to [[live]] and [[work]] together as the hacker hive, making a larger community with added [[benefits]] while retaining our own sub-hives of mates, friends, and family (see [[decentralization]]).
 
+[[observations]]
+
 ### [join](http://hackerspaces.org/wiki/The_Community_Pattern) the [hive](http://localhost)!
 
 #### discussion:
