@@ -2,7 +2,7 @@
 
 ## the idea
 
-the hacker hive is about making prototype [housing](http://en.wikipedia.org/wiki/Northside,_Berkeley,_California) [cooperatives](http://www.bsc.coop/) started by the [UC Berkeley hacker community](http://hackersatberkeley.com/).
+the hacker hive is a [[initiative|init]] to make prototype [housing](http://en.wikipedia.org/wiki/Northside,_Berkeley,_California) [cooperatives](http://www.bsc.coop/) started by the [UC Berkeley hacker community](http://hackersatberkeley.com/).
 
 some of us hackers already live together and some of us already work together. we invite all hackers to [[live]] and [[work]] together as the hacker hive, making a larger community with added [[benefits]] while retaining our own sub-hives of mates, friends, and family (see [[decentralization]]).
 
@@ -33,7 +33,6 @@ everything is a work in progress by the hive.
 - get location for first critical mass meeting
 - achieve [critical mass](http://hackerspaces.org/wiki/The_Critical_Mass_Pattern)
 - introduction content on wiki
-- design ethical axioms over time
 - find shelter for every bee
 - design food and resource gathering systems
 - design maintenance systems
