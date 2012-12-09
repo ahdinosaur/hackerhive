@@ -2,13 +2,11 @@
 
 ## the idea
 
-the hacker hive is project to make [prototype](http://seasteading.wpengine.netdna-cdn.com/files/research/governance/Friedman&Taylor_2011_Seasteading_APEE.pdf) [housing](http://en.wikipedia.org/wiki/Northside,_Berkeley,_California) [cooperatives](http://www.bsc.coop/) started by the [UC Berkeley hacker community](http://hackersatberkeley.com/).
+the hacker hive is a project aimed at making prototype [housing](http://en.wikipedia.org/wiki/Northside,_Berkeley,_California) [cooperatives](http://www.bsc.coop/) started by the [UC Berkeley hacker community](http://hackersatberkeley.com/).
 
-some of us hackers already live together. let's have all hackers live together as the hacker hive, making a larger community with added benefits while retaining our own sub-hives of roommates, friends, and family. anyone can join the hacker hive with infinitely recursive sub-hives.
+some of us hackers already live together and some of us already work together. let's invite all hackers to [[live]] and [[work]] together as the hacker hive, making a larger community with added [[benefits]] while retaining our own sub-hives of mates, friends, and family (see [[decentralization]]).
 
-### join the hive!
-
-inspired by [The Community Pattern](http://hackerspaces.org/wiki/The_Community_Pattern),
+### [join](http://hackerspaces.org/wiki/The_Community_Pattern) the [hive](http://localhost)!
 
 #### discussion:
 <FORM ACTION="https://lists.riseup.net/www" METHOD="POST">
@@ -25,11 +23,11 @@ TODO: cryptocat documentation
 
 #### documentation
 
-TODO: getting an account and ikiwiki documentation
+TODO: getting an account with ikiwiki (wiki and blogging) support
 
 ## the implementation
 
-everything is a work in progress by the hive. everything is in motion; nothing is static.
+everything is a work in progress by the hive.
 
 ### todo
 - get location for first critical mass meeting
