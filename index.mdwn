@@ -2,9 +2,9 @@
 
 ## the idea
 
-the hacker hive is a project aimed at making prototype [housing](http://en.wikipedia.org/wiki/Northside,_Berkeley,_California) [cooperatives](http://www.bsc.coop/) started by the [UC Berkeley hacker community](http://hackersatberkeley.com/).
+the hacker hive is about making prototype [housing](http://en.wikipedia.org/wiki/Northside,_Berkeley,_California) [cooperatives](http://www.bsc.coop/) started by the [UC Berkeley hacker community](http://hackersatberkeley.com/).
 
-some of us hackers already live together and some of us already work together. let's invite all hackers to [[live]] and [[work]] together as the hacker hive, making a larger community with added [[benefits]] while retaining our own sub-hives of mates, friends, and family (see [[decentralization]]).
+some of us hackers already live together and some of us already work together. we invite all hackers to [[live]] and [[work]] together as the hacker hive, making a larger community with added [[benefits]] while retaining our own sub-hives of mates, friends, and family (see [[decentralization]]).
 
 ### [join](http://hackerspaces.org/wiki/The_Community_Pattern) the [hive](http://localhost)!
 
