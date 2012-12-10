@@ -1,16 +1,23 @@
 # hacker hive
 
-## the idea
+## what?
 
-the hacker hive is a [[initiative|init]] to make prototype [housing](http://en.wikipedia.org/wiki/Northside,_Berkeley,_California) [cooperatives](http://www.bsc.coop/) started by the [UC Berkeley hacker community](http://hackersatberkeley.com/).
+housing cooperatives (like [BSC](http://bsc.coop)) modeled after [hackerspaces](http://hackerspaces.org/wiki/List_of_Hacker_Spaces)
 
-some of us hackers already live together and some of us already work together. we invite all hackers to [[live]] and [[work]] together as the hacker hive, making a larger community with added [[benefits]] while retaining our own sub-hives of mates, friends, and family (see [[decentralization]]).
+## who?
 
-[[observations]]
+hackers of Berkeley (see [Hack@Berkeley](http://hackersatberkeley.com/), CSUA, OCF, IEEE, and probably you)
 
-### [join](http://hackerspaces.org/wiki/The_Community_Pattern) the [hive](http://localhost)!
+## where?
 
-#### discussion:
+[northside of UC Berkeley](http://en.wikipedia.org/wiki/Northside,_Berkeley,_California)
+
+## [[why?|init]]
+
+TODO move [[observations]] into init page.
+
+## [[how?|http://hackerspaces.org/wiki/Theory]]
+
 <FORM ACTION="https://lists.riseup.net/www" METHOD="POST">
   subscribe to the [hackerhive@lists.riseup.net](https://lists.riseup.net/www/info/hackerhive) mailing list: 
   <INPUT  NAME="email" SIZE="30">
@@ -19,17 +26,9 @@ some of us hackers already live together and some of us already work together. w
   <INPUT TYPE="submit" NAME="action_subrequest" VALUE="Subscribe">
 </FORM>
 
-#### instant messaging
+## when?
 
-TODO: cryptocat documentation
-
-#### documentation
-
-TODO: getting an account with ikiwiki (wiki and blogging) support
-
-## the implementation
-
-everything is a work in progress by the hive.
+first meeting early spring semester 2013.
 
 ### todo
 - get location for first critical mass meeting
