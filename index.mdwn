@@ -28,13 +28,15 @@ TODO move [[observations]] into init page.
 
 ## when?
 
-first meeting early spring semester 2013.
+the hive starts the moment you become aware.
+
+mass awareness meeting early spring semester 2013.
 
 ### todo
 - get location for first critical mass meeting
 - achieve [critical mass](http://hackerspaces.org/wiki/The_Critical_Mass_Pattern)
 - introduction content on wiki
-- find shelter for every bee
+- find shelter on northside
 - design food and resource gathering systems
 - design maintenance systems
 - design food preparation systems
