@@ -2,19 +2,19 @@
 
 ## what?
 
-housing cooperatives (like [BSC](http://bsc.coop)) modeled after [hackerspaces](http://hackerspaces.org/wiki/List_of_Hacker_Spaces)
+an initiative to make housing cooperatives (like [BSC](http://bsc.coop)) modeled after [hackerspaces](http://hackerspaces.org/wiki/List_of_Hacker_Spaces)
 
 ## who?
 
-hackers of Berkeley (see [Hack@Berkeley](http://hackersatberkeley.com/), CSUA, OCF, IEEE, and probably you)
+all hackers of Berkeley (see [Hack@Berkeley](http://hackersatberkeley.com/), [CSUA](http://www.csua.berkeley.edu/), [OCF](https://secure.ocf.berkeley.edu/), [IEEE](http://ieee.berkeley.edu/), and probably you)
 
 ## where?
 
 [northside of UC Berkeley](http://en.wikipedia.org/wiki/Northside,_Berkeley,_California)
 
-## [[why?|init]]
+## why?
 
-TODO move [[observations]] into init page.
+[[dinosaur's reasons|init]]
 
 ## [[how?|http://hackerspaces.org/wiki/Theory]]
 
@@ -32,19 +32,26 @@ the hive starts the moment you become aware.
 
 mass awareness meeting early spring semester 2013.
 
+<hr />
+
+## progress
+
+everyone is encouraged to contribute
+
 ### todo
-- get location for first critical mass meeting
+- get location for first mass awareness meeting
 - achieve [critical mass](http://hackerspaces.org/wiki/The_Critical_Mass_Pattern)
-- introduction content on wiki
+- make wiki informative and presentable for the unsuspecting viewer
 - find shelter on northside
-- design food and resource gathering systems
-- design maintenance systems
-- design food preparation systems
-- implement basic computer access (shell, ikiwiki, gitweb) - IN PROGRESS dinosaur
+- design governance and decision-making bodies
+- implement basic computer access for members (shell, ikiwiki, gitweb)
+- get a CAcert for hackerhive.net
 
 ### changelog
+- setup ikiwiki at hackerhive.net - CHECK dinosaur
 - purchase hackerhive.net domain - CHECK dinosaur
 - setup hackerhive@riseup.net mailing list - CHECK dinosaur
+
 
 ----
 
