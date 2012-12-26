@@ -45,9 +45,10 @@ everyone is encouraged to contribute
 - find shelter on northside
 - design governance and decision-making bodies
 - implement basic computer access for members (shell, ikiwiki, gitweb)
-- get a CAcert for hackerhive.net
+
 
 ### changelog
+- get a CAcert for hackerhive.net - CHECK dinosaur
 - setup ikiwiki at hackerhive.net - CHECK dinosaur
 - purchase hackerhive.net domain - CHECK dinosaur
 - setup hackerhive@riseup.net mailing list - CHECK dinosaur
