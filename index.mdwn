@@ -1,16 +1,15 @@
 # hacker hive
 
-## what?
+    sets of hives sharing purpose.
+    that's a hive.
+    
+    hives prototyping life hacks.
+    that's the hacker hive.
+    
+    Berkeley students thriving.
+    that's the hacker hive in Berkeley.
 
-an initiative to make housing cooperatives (like [BSC](http://bsc.coop)) modeled after [hackerspaces](http://hackerspaces.org/wiki/List_of_Hacker_Spaces)
-
-## who?
-
-all hackers of Berkeley (see [Hack@Berkeley](http://hackersatberkeley.com/), [CSUA](http://www.csua.berkeley.edu/), [OCF](https://secure.ocf.berkeley.edu/), [IEEE](http://ieee.berkeley.edu/), and probably you)
-
-## where?
-
-[northside of UC Berkeley](http://en.wikipedia.org/wiki/Northside,_Berkeley,_California)
+the hacker hive is an initiative to make housing cooperatives (like [BSC](http://bsc.coop)) modeled after [hackerspaces](http://hackerspaces.org/wiki/List_of_Hacker_Spaces). we invite all hackers of Berkeley (see [Hack@Berkeley](http://hackersatberkeley.com/), [CSUA](http://www.csua.berkeley.edu/), [OCF](https://secure.ocf.berkeley.edu/), [IEEE](http://ieee.berkeley.edu/), and probably you) to join us in making a cooperative living system near the [northside of UC Berkeley](http://en.wikipedia.org/wiki/Northside,_Berkeley,_California).
 
 ## why?
 
@@ -28,9 +27,7 @@ all hackers of Berkeley (see [Hack@Berkeley](http://hackersatberkeley.com/), [CS
 
 ## when?
 
-the hive starts the moment you become aware.
-
-mass awareness meeting early spring semester 2013.
+now.
 
 <hr />
 
