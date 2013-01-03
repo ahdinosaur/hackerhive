@@ -1,0 +1,3 @@
+# learning material
+
+- [hackerspace theory](http://hackerspaces.org/wiki/Theory)
