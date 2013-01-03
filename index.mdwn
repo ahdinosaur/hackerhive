@@ -1,3 +1,5 @@
+![hacker hive bee logo](img/bee-logo-small.png)
+
 # hacker hive
 
     sets of agents sharing purpose.
