@@ -2,32 +2,28 @@
 
     sets of agents sharing purpose.
     that's a hive.
-    
-    hives prototyping life hacks.
-    that's the hacker hive.
-    
-    Berkeley students thriving.
-    that's the Berkeley student hives.
 
-the hacker hive is an initiative to make housing cooperatives (like [BSC](http://bsc.coop)) modeled after [hackerspaces](http://hackerspaces.org/wiki/List_of_Hacker_Spaces). as the people behind this idea are currently studying in Berkeley, we invite all hackers of Berkeley (see [Hack@Berkeley](http://hackersatberkeley.com/), [CSUA](http://www.csua.berkeley.edu/), [OCF](https://secure.ocf.berkeley.edu/), [IEEE](http://ieee.berkeley.edu/), and probably you) to join us in making a cooperative living system near the [northside of UC Berkeley](http://en.wikipedia.org/wiki/Northside,_Berkeley,_California).
+## what is the hacker hive?
 
-## why?
+the hacker hive is an initiative to make housing cooperatives (like [BSC](http://bsc.coop)) modeled after [hackerspaces](http://hackerspaces.org/wiki/List_of_Hacker_Spaces). as the people behind this idea are currently studying in Berkeley, we wish to start this initiative in Berkeley. we invite all hackers of Berkeley (see [Hack@Berkeley](http://hackersatberkeley.com/), [CSUA](http://www.csua.berkeley.edu/), [OCF](https://secure.ocf.berkeley.edu/), [IEEE](http://ieee.berkeley.edu/), and probably you) to join us in making a cooperative living system near the [northside of UC Berkeley](http://en.wikipedia.org/wiki/Northside,_Berkeley,_California).
 
-[[dinosaur's rants|init]]
-
-## [[how?|http://hackerspaces.org/wiki/Theory]]
+## how do i join?
 
 <FORM ACTION="https://lists.riseup.net/www" METHOD="POST">
-  subscribe to the [hackerhive@lists.riseup.net](https://lists.riseup.net/www/info/hackerhive) mailing list: 
+  step 1. subscribe to the [hackerhive@lists.riseup.net](https://lists.riseup.net/www/info/hackerhive) mailing list: 
   <INPUT  NAME="email" SIZE="30">
   <INPUT TYPE="hidden" NAME="list" VALUE="hackerhive">
   <INPUT TYPE="hidden" NAME="action" VALUE="subrequest">
   <INPUT TYPE="submit" NAME="action_subrequest" VALUE="Subscribe">
 </FORM>
 
-## when?
+step 2. [[educate yourself|learning]]
 
-now.
+step 3. [[make progress|progress]]
+
+step 4. ???
+
+step 5. profit!
 
 <hr />
 
