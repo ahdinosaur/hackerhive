@@ -1,14 +1,18 @@
 ## progress
 
-everyone is encouraged to contribute
+everyone is welcomed to contribute
 
 ### todo
-- get location for first mass awareness meeting
-- achieve [critical mass](http://hackerspaces.org/wiki/The_Critical_Mass_Pattern)
-- make wiki informative and presentable for the unsuspecting viewer
-- find shelter on northside
-- design governance and decision-making bodies
-- implement basic computer access for members (shell, ikiwiki, gitweb)
+- make [[website|index]] informative and presentable for the unsuspecting viewer
+- get location for biweekly hacker hive [[councils|council]]
+- add hive [[logo]] to front page
+- find [[shelter]] on the northside of UC Berkeley
+- design [[governance]] and decision-making bodies
+- repurpose [[servers]]
+  + host member projects (gitolite, gitweb)
+  + host member wikis and blogs (ikiwiki)
+  + implement basic computer access for members (shell)
+- consider assimilating with the existing Berkeley Student Cooperative system
 
 
 ### changelog
