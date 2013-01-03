@@ -1,3 +1,28 @@
 # learning material
 
+anyone can edit this
+
+## print
+
 - [hackerspace theory](http://hackerspaces.org/wiki/Theory)
+- [the cathedral and the bazaar](http://www.catb.org/esr/writings/homesteading/)
+- [the open source ecology paradigm](http://opensourceecology.org/wiki/Open_Source_Ecology_Paradigm)
+- [dinosaur's library](https://www.dinosaur.io/library)
+
+## video
+
+- [fosdem](http://video.fosdem.org/)
+- [ted](http://www.ted.com/talks)
+- [chaos communication congress](http://ftp.ccc.de/congress/)
+
+## communities
+
+- [unhosted](https://unhosted.org/)
+- [freedombox](http://wiki.debian.org/FreedomBox)
+- [r/darknetplan](http://www.reddit.com/r/darknetplan)
+- [funtoo](http://www.funtoo.org/wiki/Welcome)
+
+## services
+
+- [kickstarter](http://www.kickstarter.com/)
+- [indiegogo](http://www.indiegogo.com/)
