@@ -1,0 +1,9 @@
+# hives
+
+hives are simple terminology to represent a fundamemntal idea: we do not live as individuals but as a network.
+
+a 'hive' is a set of agents (including hives) with a shared purpose.
+
+## example hives
+
+[[hive0]]
