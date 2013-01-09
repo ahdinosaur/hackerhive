@@ -5,7 +5,6 @@ everyone is welcomed to contribute
 ### todo
 - make [[website|index]] informative and presentable for the unsuspecting viewer
 - get location for biweekly hacker hive [[councils|council]]
-- add hive [[logo]] to front page
 - find [[shelter]] on the northside of UC Berkeley
 - design [[governance]] and decision-making bodies
 - repurpose [[servers]]
@@ -13,6 +12,8 @@ everyone is welcomed to contribute
   + host member wikis and blogs (ikiwiki)
   + implement basic computer access for members (shell)
 - consider assimilating with the existing Berkeley Student Cooperative system
+- allow donations through flattr
+- allow donations through bitcoin
 
 
 ### changelog
@@ -20,3 +21,4 @@ everyone is welcomed to contribute
 - setup ikiwiki at hackerhive.net - CHECK dinosaur
 - purchase hackerhive.net domain - CHECK dinosaur
 - setup hackerhive@riseup.net mailing list - CHECK dinosaur
+- add hive [[logo]] to front page - CHECK dinosaur
