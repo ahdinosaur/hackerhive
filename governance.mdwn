@@ -1,16 +1,17 @@
 governance is an question open for public discussion.
 
-## hive proposals
+# hive proposals
 
 proposals can be submitted to hives.
 
-### parties involved
+## parties involved
 
 all members of the hive
 
-### process involved
+## process involved
 
-spectrum of possibilities
+spectrum of possibilities:
+
 - consensus only, everyone must agree
 - all but n consensus
 - percent agreement
@@ -18,14 +19,15 @@ spectrum of possibilities
 - majority in favor
 - largest minority
 
-## hive bank
+# hive bank
 
-the hive must keep inventory of its financial resources.
+the hive must keep inventory of its existing resources and accept incoming resources.
 
-### parties involved
+## parties involved
 
-the treasurer(s)
+hive bank admins
+hive members
 
-### error checking
+## error checking
 
-all members of the hive can submit proposals as a form of bug reporting
+all members of the hive can submit proposals to hive bank as a form of bug reporting
