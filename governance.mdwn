@@ -1,0 +1,31 @@
+governance is an question open for public discussion.
+
+## hive proposals
+
+proposals can be submitted to hives.
+
+### parties involved
+
+all members of the hive
+
+### process involved
+
+spectrum of possibilities
+- consensus only, everyone must agree
+- all but n consensus
+- percent agreement
+- supermajority in favor
+- majority in favor
+- largest minority
+
+## hive bank
+
+the hive must keep inventory of its financial resources.
+
+### parties involved
+
+the treasurer(s)
+
+### error checking
+
+all members of the hive can submit proposals as a form of bug reporting
