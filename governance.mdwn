@@ -12,7 +12,7 @@ all members of the hive
 
 spectrum of possibilities:
 
-- consensus only, everyone must agree
+- [consensus only](https://noisebridge.net/wiki/Consensus_Process)
 - all but n consensus
 - percent agreement
 - supermajority in favor
