@@ -2,7 +2,7 @@
 
 anyone can edit this
 
-## print
+## text
 
 - [hackerspace theory](http://hackerspaces.org/wiki/Theory)
 - [the cathedral and the bazaar](http://www.catb.org/esr/writings/homesteading/)
@@ -10,6 +10,7 @@ anyone can edit this
 - [producing open source software](http://producingoss.com/)
 - [mindfulness in plain english](http://www.urbandharma.org/udharma4/mpe.html)
 - [dinosaur's library](https://www.dinosaur.io/library)
+- ["The Conscience of a Hacker" by The Mentor](http://www.phrack.org/issues.html?issue=7&id=3&mode=txt)
 - [communist manifesto](http://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
 - ["Marxism is as Alien to My Culture as Capitalism"](http://endofcapitalism.com/2010/10/17/revolution-and-american-indians-marxism-is-as-alien-to-my-culture-as-capitalism/)
 - [intro to communist anarchism](http://dwardmac.pitzer.edu/anarchist_Archives/bright/berkman/comanarchism/whatis_intro.html)
