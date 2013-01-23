@@ -1,6 +1,6 @@
 ![hacker hive bee logo](img/bee-logo-small.png)
 
-# hacker hive
+# [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [[hive|hive0]]
 
     sets of agents sharing purpose.
     that's a hive.
@@ -8,9 +8,9 @@
     lifestyle of playful cleverness and exploration.
     that's a hacker.
 
-## what is the hacker hive?
+## what is the [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [[hive|hive0]]?
 
-the [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [[hive|hive0]] is an initiative to make housing cooperatives (e.g. [BSC](http://bsc.coop)) be more like [hackerspaces](http://hackerspaces.org/wiki/List_of_Hacker_Spaces) and thus based on the ideas of [[do-ocracracy|governance]] and [[collectivism|hives]]. [i](https://www.dinosaur.io), as a student at UC Berkeley, invite all hackers of Berkeley (see [Hack@Berkeley](http://hackersatberkeley.com/), [CSUA](http://www.csua.berkeley.edu/), [OCF](https://secure.ocf.berkeley.edu/), [IEEE](http://ieee.berkeley.edu/), and probably you) to join us in making a cooperative living system for hackers near the [northside of UC Berkeley](http://en.wikipedia.org/wiki/Northside,_Berkeley,_California).
+the [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [[hive|hive0]] is an invitation to all [hackers](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) at [UC Berkeley](http://berkeley.edu) to influence the [Berkeley Student Cooperative](http://bsc.coop) through [hacking](http://www.catb.org/esr/faqs/hacker-howto.html#what_is), in the spirit of the international communities known as [hackerspaces](http://hackerspaces.org/wiki/List_of_Hacker_Spaces).
 
 ## how do i join?
 
