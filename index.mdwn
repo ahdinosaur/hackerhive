@@ -10,9 +10,11 @@
 
 ## what is the [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [[hive|hive0]]?
 
-the [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [[hive|hive0]] is an invitation to all [hackers](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) at [UC Berkeley](http://berkeley.edu) to influence the [Berkeley Student Cooperative](http://bsc.coop) through [hacking](http://www.catb.org/esr/faqs/hacker-howto.html#what_is), in the spirit of the international communities known as [hackerspaces](http://hackerspaces.org/wiki/List_of_Hacker_Spaces).
+the [hacker hive](https://www.hackerhive.net) is an invitation to all [hackers](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) at [UC Berkeley](http://reddit.com/r/berkeley) to use hacking, in the spirit of the international communities known as [hackerspaces](http://hackerspaces.org/wiki/List_of_Hacker_Spaces), to both make new cooperative living communities and influence the existing [Berkeley Student Cooperative](http://bsc.coop).
 
-## how do i join?
+if this idea appeals to you, please participate and get all your friends who you wish to live with to also participate. there is no hierarchy. we are all equals. together we can unite and better our living, but first we need you.
+
+## want to join?
 
 <FORM ACTION="https://lists.riseup.net/www" METHOD="POST">
   step 1. subscribe to the [hackerhive@lists.riseup.net](https://lists.riseup.net/www/info/hackerhive) mailing list: 
