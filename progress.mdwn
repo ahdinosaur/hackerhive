@@ -5,7 +5,7 @@ everyone is welcomed to contribute
 ### todo
 - make [[website|index]] informative and presentable for the unsuspecting viewer
 - get location for biweekly hacker hive [[councils|council]]
-- find [[shelter]] on the northside of UC Berkeley
+- find [[places to live|shelter]] around UC Berkeley
 - design [[governance]] and decision-making bodies
 - repurpose [[servers]]
   + host member projects (gitolite, gitweb)
@@ -17,6 +17,7 @@ everyone is welcomed to contribute
 
 
 ### changelog
+- make hackerhive subreddit - CHECK dompsair
 - get a CAcert for hackerhive.net - CHECK dinosaur
 - setup ikiwiki at hackerhive.net - CHECK dinosaur
 - purchase hackerhive.net domain - CHECK dinosaur
