@@ -23,7 +23,7 @@ if this idea appeals to you, please participate and get all your friends who you
   <INPUT TYPE="hidden" NAME="action" VALUE="subrequest">
   <INPUT TYPE="submit" NAME="action_subrequest" VALUE="Subscribe">
 </FORM>
- and / or subscribe to [r/hackerhive](https://www.reddit.com/r/hackerhive) on reddit.
+ and / or subscribe to [r/hackerhive](http://www.reddit.com/r/hackerhive) on reddit.
 
 step 2. [[educate yourself|learning]]
 
