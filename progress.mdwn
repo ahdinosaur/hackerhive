@@ -17,7 +17,7 @@ everyone is welcomed to contribute
 
 
 ### changelog
-- make hackerhive subreddit - CHECK dompsair
+- make hackerhive subreddit - CHECK dinosaur
 - get a CAcert for hackerhive.net - CHECK dinosaur
 - setup ikiwiki at hackerhive.net - CHECK dinosaur
 - purchase hackerhive.net domain - CHECK dinosaur
