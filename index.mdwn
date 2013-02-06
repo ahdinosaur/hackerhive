@@ -12,9 +12,9 @@
 
 the [hacker hive](https://www.hackerhive.net) is an invitation to all [hackers](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) at [UC Berkeley](http://reddit.com/r/berkeley) to use hacking, in the spirit of the international communities known as [hackerspaces](http://hackerspaces.org/wiki/List_of_Hacker_Spaces), to both make new cooperative living communities and influence the existing [Berkeley Student Cooperative](http://bsc.coop).
 
-if this idea appeals to you, please participate and get all your friends who you wish to live with to also participate. there is no hierarchy. we are all equals. together we can unite and better our living, but first we need you.
+if this idea appeals to you, please participate and get all your friends who you wish to live with to also participate. there is no chain of command. nothing will get done until someone decides to do it, so start doing!
 
-## want to join?
+## what do i do?
 
 <FORM ACTION="https://lists.riseup.net/www" METHOD="POST">
   step 1. subscribe to the [hackerhive@lists.riseup.net](https://lists.riseup.net/www/info/hackerhive) mailing list: 
