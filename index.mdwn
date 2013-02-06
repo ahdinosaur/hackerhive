@@ -14,7 +14,7 @@ the [hacker hive](https://www.hackerhive.net) is an invitation to all [hackers](
 
 if this idea appeals to you, please participate and get all your friends who you wish to live with to also participate. there is no chain of command. nothing will get done until someone decides to do it, so start doing!
 
-## what do i do?
+## how do i start?
 
 <FORM ACTION="https://lists.riseup.net/www" METHOD="POST">
   step 1. subscribe to the [hackerhive@lists.riseup.net](https://lists.riseup.net/www/info/hackerhive) mailing list: 
