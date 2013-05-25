@@ -10,7 +10,7 @@
 
 ## what is the [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [[hive|hive0]]?
 
-the [hacker hive](https://www.hackerhive.net) is an invitation to all [hackers](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) at [UC Berkeley](http://reddit.com/r/berkeley) to use hacking, in the spirit of the international communities known as [hackerspaces](http://hackerspaces.org/wiki/List_of_Hacker_Spaces), to both make new cooperative living communities and influence the existing [Berkeley Student Cooperative](http://bsc.coop).
+the [hacker hive](https://www.hackerhive.net) is an initiative in the spirit of existing [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [communities](http://hackerspaces.org/) to create cooperative living spaces that subsidise living expenses through collective creative output.
 
 if this idea appeals to you, please participate and get all your friends who you wish to live with to also participate. there is no chain of command. nothing will get done until someone decides to do it, so start doing!
 
