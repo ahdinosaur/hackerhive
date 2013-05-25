@@ -1,18 +1,13 @@
 ## progress
 
-everyone is welcomed to contribute
+everyone is welcomed to contribute (this website is a [wiki](http://en.wikipedia.org/wiki/Wiki))
 
 ### todo
 - make [[website|index]] informative and presentable for the unsuspecting viewer
 - get location for biweekly hacker hive [[councils|council]]
 - find [[places to live|shelter]] around UC Berkeley
 - design [[governance]] and decision-making bodies
-- repurpose [[servers]]
-  + host member projects (gitolite, gitweb)
-  + host member wikis and blogs (ikiwiki)
-  + implement basic computer access for members (shell)
 - consider assimilating with the existing Berkeley Student Cooperative system
-- allow donations through flattr
 - allow donations through bitcoin
 
 
