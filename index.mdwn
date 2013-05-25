@@ -8,7 +8,7 @@
 
 ## what is the [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [hive](https://www.hackerhive.net)?
 
-the [hacker hive](https://www.hackerhive.net) is an initiative in the spirit of existing [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [communities](http://hackerspaces.org/) to create cooperative living spaces that subsidise living expenses through collective creative output.
+the [hacker hive](https://www.hackerhive.net) is an initiative in the spirit of existing [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [communities](http://hackerspaces.org/) to create cooperative living spaces that subsidise living expenses through collective creative [[output]].
 
 if this idea appeals to you, please participate and get all your friends who you wish to live with to also participate.
 
