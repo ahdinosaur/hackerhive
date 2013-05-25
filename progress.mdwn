@@ -7,7 +7,6 @@ everyone is welcomed to contribute (this website is a [wiki](http://en.wikipedia
 - get location for biweekly hacker hive [[councils|council]]
 - find [[places to live|shelter]] around UC Berkeley
 - design [[governance]] and decision-making bodies
-- consider assimilating with the existing Berkeley Student Cooperative system
 - allow donations through bitcoin
 
 
