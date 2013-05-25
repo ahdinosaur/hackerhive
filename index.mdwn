@@ -1,6 +1,4 @@
-![hacker hive bee logo](img/bee-logo-small.png)
-
-# [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [[hive|hive0]]
+![hacker hive flyer](img/HH%20flyer2.jpg)
 
     sets of agents sharing purpose.
     that's a hive.
@@ -8,7 +6,7 @@
     lifestyle of playful cleverness and exploration.
     that's a hacker.
 
-## what is the [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [[hive|hive0]]?
+## what is the [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [hive](https://www.hackerhive.net)?
 
 the [hacker hive](https://www.hackerhive.net) is an initiative in the spirit of existing [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [communities](http://hackerspaces.org/) to create cooperative living spaces that subsidise living expenses through collective creative output.
 
@@ -33,6 +31,7 @@ step 4. ???
 
 step 5. profit!
 
+![hacker hive bee logo](img/bee-logo-small.png)
 ----
 
 this wiki is powered by [[ikiwiki]]. all content is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0" rel="license">Creative Commons Attribution ShareAlike 3.0 Unported License</a>.
