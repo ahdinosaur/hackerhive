@@ -1,10 +1,10 @@
-![hacker hive flyer](img/HH%20flyer2.jpg)
-
     sets of agents sharing purpose.
     that's a hive.
 
     lifestyle of playful cleverness and exploration.
     that's a hacker.
+
+![hacker hive flyer](img/HH%20flyer2.jpg)
 
 ## what is the [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [hive](https://www.hackerhive.net)?
 
