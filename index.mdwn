@@ -1,18 +1,23 @@
+![hacker hive bee logo](img/bee-logo-small.png)
+   
     sets of agents sharing purpose.
     that's a hive.
 
     lifestyle of playful cleverness and exploration.
     that's a hacker.
 
-![hacker hive flyer](img/HH%20flyer2.jpg)
 
 ## what is the [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [hive](https://www.hackerhive.net)?
 
-the [hacker hive](https://www.hackerhive.net) is an initiative in the spirit of existing [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [communities](http://hackerspaces.org/) to create cooperative living spaces that subsidise living expenses through collective creative [[output]].
+the [hacker hive](https://www.hackerhive.net) is an initiative in the spirit of existing [hacker](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) [communities](http://hackerspaces.org/) to create cooperative living spaces that subsidise living expenses through collective creative [[output]]. 
+
+Let's live, work, and play together in the first hacker house! 
 
 if this idea appeals to you, please participate and get all your friends who you wish to live with to also participate.
 
 there is no chain of command. nothing will get done until someone decides to do it, so start doing!
+
+![hacker hive flyer](img/HH%20flyer2.jpg)
 
 ## how do i start?
 
@@ -27,13 +32,13 @@ there is no chain of command. nothing will get done until someone decides to do 
 
 step 2. [[educate yourself|learning]]
 
-step 3. [[make progress|progress]]
+step 3. [[make progress|progress]] <---Link to House Listings
 
 step 4. ???
 
 step 5. profit!
 
-![hacker hive bee logo](img/bee-logo-small.png)
+
 ----
 
 this wiki is powered by [[ikiwiki]]. all content is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0" rel="license">Creative Commons Attribution ShareAlike 3.0 Unported License</a>.
