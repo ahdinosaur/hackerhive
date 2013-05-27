@@ -4,7 +4,10 @@ add some listings!
 
 $ per ft^2 = price/area ratio. (lower = cheaper) 
 
+- <http://sfbay.craigslist.org/eby/apa/3825558913.html> ($5695/3300 ft^2 = 1.73) 
 - <http://sfbay.craigslist.org/eby/apa/3805957658.html> ($4850/1950 ft^2 = 2.49)
 - <http://sfbay.craigslist.org/eby/apa/3823040282.html> ($7995/3600 ft^2 = 2.22)
 - <http://sfbay.craigslist.org/eby/apa/3775724840.html> ?
 - <http://sfbay.craigslist.org/eby/apa/3792973439.html> ($8995/2500 ft^2 = 3.6)
+- <http://www.apartmenthunterz.com/details/132299518> ? this is an apartment
+- <http://www.apartmenthunterz.com/details/135696590> ($3800/2000 ft^2 = 1.9)
