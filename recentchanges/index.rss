@@ -1,0 +1,4761 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/" >
+<channel>
+<title>RecentChanges</title>
+<link>http://hackerhive.net/recentchanges/</link>
+<description>hive</description>
+<item>
+
+	<title>https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg: change to shelter on hive</title>
+	<dcterms:creator>https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_9973050a590b3b37625688df45debd776e12e0f1/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-9973050a590b3b37625688df45debd776e12e0f1</link>
+
+	<pubDate>Mon, 03 Jun 2013 09:12:49 -0700</pubDate>
+	<dcterms:modified>2013-06-03T16:12:49Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-9973050a590b3b37625688df45debd776e12e0f1&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=shelter&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;shelter&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg&quot; rel=&quot;nofollow&quot;&gt;Leela&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;09:12:49 06/03/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=9973050a590b3b37625688df45debd776e12e0f1&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+removed expired link&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to shelter/questions on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_6a8e8cbbcf1233f20269b7708f9039a4866d7c8a/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-6a8e8cbbcf1233f20269b7708f9039a4866d7c8a</link>
+
+	<pubDate>Sun, 02 Jun 2013 03:43:58 -0700</pubDate>
+	<dcterms:modified>2013-06-02T10:43:58Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-6a8e8cbbcf1233f20269b7708f9039a4866d7c8a&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=shelter%2Fquestions&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;shelter/questions&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;03:43:58 06/02/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=6a8e8cbbcf1233f20269b7708f9039a4866d7c8a&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added shelter questions page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to minutes-2013-05-28 on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_46e158f2a41a69e97da4509d44c9552d1e2ee70d/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-46e158f2a41a69e97da4509d44c9552d1e2ee70d</link>
+
+	<pubDate>Wed, 29 May 2013 15:09:25 -0700</pubDate>
+	<dcterms:modified>2013-05-29T22:09:25Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-46e158f2a41a69e97da4509d44c9552d1e2ee70d&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=minutes-2013-05-28&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;minutes-2013-05-28&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;15:09:25 05/29/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=46e158f2a41a69e97da4509d44c9552d1e2ee70d&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added most recent minutes&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to minutes on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_8e064ae29650d7b3116165228fd6e0248d8c5361/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-8e064ae29650d7b3116165228fd6e0248d8c5361</link>
+
+	<pubDate>Wed, 29 May 2013 15:01:15 -0700</pubDate>
+	<dcterms:modified>2013-05-29T22:01:15Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-8e064ae29650d7b3116165228fd6e0248d8c5361&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=minutes&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;minutes&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;15:01:15 05/29/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=8e064ae29650d7b3116165228fd6e0248d8c5361&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added minutes page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg: change to index on hive</title>
+	<dcterms:creator>https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_31002e8fe7e5f94a2afee6783b964632125ba608/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-31002e8fe7e5f94a2afee6783b964632125ba608</link>
+
+	<pubDate>Mon, 27 May 2013 15:04:51 -0700</pubDate>
+	<dcterms:modified>2013-05-27T22:04:51Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-31002e8fe7e5f94a2afee6783b964632125ba608&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg&quot; rel=&quot;nofollow&quot;&gt;Leela&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;15:04:51 05/27/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=31002e8fe7e5f94a2afee6783b964632125ba608&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+layout change&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg: change to shelter on hive</title>
+	<dcterms:creator>https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_60a398e113fc1672240dbd4bd0962aebfb548c75/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-60a398e113fc1672240dbd4bd0962aebfb548c75</link>
+
+	<pubDate>Mon, 27 May 2013 12:45:16 -0700</pubDate>
+	<dcterms:modified>2013-05-27T19:45:16Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-60a398e113fc1672240dbd4bd0962aebfb548c75&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=shelter&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;shelter&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg&quot; rel=&quot;nofollow&quot;&gt;Leela&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;12:45:16 05/27/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=60a398e113fc1672240dbd4bd0962aebfb548c75&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added link&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg: change to shelter on hive</title>
+	<dcterms:creator>https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_5c7dffe2388e82102438ce1dedb94907602ec8aa/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-5c7dffe2388e82102438ce1dedb94907602ec8aa</link>
+
+	<pubDate>Sun, 26 May 2013 23:31:21 -0700</pubDate>
+	<dcterms:modified>2013-05-27T06:31:21Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-5c7dffe2388e82102438ce1dedb94907602ec8aa&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=shelter&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;shelter&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg&quot; rel=&quot;nofollow&quot;&gt;Leela&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;23:31:21 05/26/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=5c7dffe2388e82102438ce1dedb94907602ec8aa&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added links&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg: change to shelter on hive</title>
+	<dcterms:creator>https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_49864f8fd8ca32e65a5005d2bbcb211c59989bc1/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-49864f8fd8ca32e65a5005d2bbcb211c59989bc1</link>
+
+	<pubDate>Sat, 25 May 2013 21:45:04 -0700</pubDate>
+	<dcterms:modified>2013-05-26T04:45:04Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-49864f8fd8ca32e65a5005d2bbcb211c59989bc1&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=shelter&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;shelter&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg&quot; rel=&quot;nofollow&quot;&gt;Leela&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;21:45:04 05/25/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=49864f8fd8ca32e65a5005d2bbcb211c59989bc1&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+more options&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg: change to shelter on hive</title>
+	<dcterms:creator>https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_e1164b35db9efa469977c78adf4c3ea5a82b1113/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-e1164b35db9efa469977c78adf4c3ea5a82b1113</link>
+
+	<pubDate>Sat, 25 May 2013 21:14:09 -0700</pubDate>
+	<dcterms:modified>2013-05-26T04:14:09Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-e1164b35db9efa469977c78adf4c3ea5a82b1113&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=shelter&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;shelter&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;https://www.google.com/accounts/o8/id?id=AItOawlG6LOyHFhn2L6SzX4RcY7z97FU2Axm3Zg&quot; rel=&quot;nofollow&quot;&gt;Leela&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;21:14:09 05/25/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=e1164b35db9efa469977c78adf4c3ea5a82b1113&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added first house&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_3b405a4de42abbadbf3ce7aaabea6da10d9ebcca/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-3b405a4de42abbadbf3ce7aaabea6da10d9ebcca</link>
+
+	<pubDate>Sat, 25 May 2013 20:34:23 -0700</pubDate>
+	<dcterms:modified>2013-05-26T03:34:23Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-3b405a4de42abbadbf3ce7aaabea6da10d9ebcca&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;20:34:23 05/25/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=3b405a4de42abbadbf3ce7aaabea6da10d9ebcca&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+moved text around&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to progress on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_df2a66092994ca7f0f251599df8147004b1b7e43/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-df2a66092994ca7f0f251599df8147004b1b7e43</link>
+
+	<pubDate>Sat, 25 May 2013 00:44:49 -0700</pubDate>
+	<dcterms:modified>2013-05-25T07:44:49Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-df2a66092994ca7f0f251599df8147004b1b7e43&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=progress&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;progress&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;00:44:49 05/25/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=df2a66092994ca7f0f251599df8147004b1b7e43&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+minor edit&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to progress on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_4fb043f08c60fd702c7c59e499c68214dca22601/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-4fb043f08c60fd702c7c59e499c68214dca22601</link>
+
+	<pubDate>Sat, 25 May 2013 00:44:31 -0700</pubDate>
+	<dcterms:modified>2013-05-25T07:44:31Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-4fb043f08c60fd702c7c59e499c68214dca22601&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=progress&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;progress&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;00:44:31 05/25/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=4fb043f08c60fd702c7c59e499c68214dca22601&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+edits to progress page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to output on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_7392096c889d8503a39774867405bbf9410b844b/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-7392096c889d8503a39774867405bbf9410b844b</link>
+
+	<pubDate>Fri, 24 May 2013 21:58:29 -0700</pubDate>
+	<dcterms:modified>2013-05-25T04:58:29Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-7392096c889d8503a39774867405bbf9410b844b&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=output&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;output&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;21:58:29 05/24/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=7392096c889d8503a39774867405bbf9410b844b&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+edited output page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to output on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_acf970a358a35aa8fa46979c999109e0dec5ff65/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-acf970a358a35aa8fa46979c999109e0dec5ff65</link>
+
+	<pubDate>Fri, 24 May 2013 21:57:51 -0700</pubDate>
+	<dcterms:modified>2013-05-25T04:57:51Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-acf970a358a35aa8fa46979c999109e0dec5ff65&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=output&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;output&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;21:57:51 05/24/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=acf970a358a35aa8fa46979c999109e0dec5ff65&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+edited output page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to output on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_02e2abfbfc5a7e1f385cf2d5ee2ed0d88d57b017/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-02e2abfbfc5a7e1f385cf2d5ee2ed0d88d57b017</link>
+
+	<pubDate>Fri, 24 May 2013 21:56:46 -0700</pubDate>
+	<dcterms:modified>2013-05-25T04:56:46Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-02e2abfbfc5a7e1f385cf2d5ee2ed0d88d57b017&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=output&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;output&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;21:56:46 05/24/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=02e2abfbfc5a7e1f385cf2d5ee2ed0d88d57b017&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+created list of potential output&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_9caa31f5a46b201769aaa39ecf746a28151e7b6f/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-9caa31f5a46b201769aaa39ecf746a28151e7b6f</link>
+
+	<pubDate>Fri, 24 May 2013 21:48:25 -0700</pubDate>
+	<dcterms:modified>2013-05-25T04:48:25Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-9caa31f5a46b201769aaa39ecf746a28151e7b6f&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;21:48:25 05/24/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=9caa31f5a46b201769aaa39ecf746a28151e7b6f&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added link to output page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_25c6e328af0dd9c9725aae1b80491aa3fa160985/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-25c6e328af0dd9c9725aae1b80491aa3fa160985</link>
+
+	<pubDate>Fri, 24 May 2013 21:47:37 -0700</pubDate>
+	<dcterms:modified>2013-05-25T04:47:37Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-25c6e328af0dd9c9725aae1b80491aa3fa160985&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;21:47:37 05/24/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=25c6e328af0dd9c9725aae1b80491aa3fa160985&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+minor edit to main page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_d3f581ee76f26527166a1e8ca820e39c25bf16f1/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-d3f581ee76f26527166a1e8ca820e39c25bf16f1</link>
+
+	<pubDate>Fri, 24 May 2013 21:46:37 -0700</pubDate>
+	<dcterms:modified>2013-05-25T04:46:37Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-d3f581ee76f26527166a1e8ca820e39c25bf16f1&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;21:46:37 05/24/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=d3f581ee76f26527166a1e8ca820e39c25bf16f1&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+edited main page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_574032dbef8c7703659a6f82c538fcf09c63fdee/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-574032dbef8c7703659a6f82c538fcf09c63fdee</link>
+
+	<pubDate>Fri, 24 May 2013 21:31:17 -0700</pubDate>
+	<dcterms:modified>2013-05-25T04:31:17Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-574032dbef8c7703659a6f82c538fcf09c63fdee&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;21:31:17 05/24/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=574032dbef8c7703659a6f82c538fcf09c63fdee&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+edited main page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to hives on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_df899c3c47c4a7e3a811756f4a25c0cf7707203b/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-df899c3c47c4a7e3a811756f4a25c0cf7707203b</link>
+
+	<pubDate>Sun, 10 Feb 2013 23:14:54 -0800</pubDate>
+	<dcterms:modified>2013-02-11T07:14:54Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-df899c3c47c4a7e3a811756f4a25c0cf7707203b&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=hives&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;hives&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;23:14:54 02/10/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=df899c3c47c4a7e3a811756f4a25c0cf7707203b&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+changed hives page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to hive0 on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_ca747b32d4b3a571f7bdae341b0ff238876dd0ef/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-ca747b32d4b3a571f7bdae341b0ff238876dd0ef</link>
+
+	<pubDate>Sun, 10 Feb 2013 23:13:28 -0800</pubDate>
+	<dcterms:modified>2013-02-11T07:13:28Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-ca747b32d4b3a571f7bdae341b0ff238876dd0ef&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=hive0&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;hive0&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;23:13:28 02/10/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=ca747b32d4b3a571f7bdae341b0ff238876dd0ef&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to progress on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_690bcdbf2dd40cd22928a1474e21c1d3420c748a/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-690bcdbf2dd40cd22928a1474e21c1d3420c748a</link>
+
+	<pubDate>Tue, 05 Feb 2013 21:08:17 -0800</pubDate>
+	<dcterms:modified>2013-02-06T05:08:17Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-690bcdbf2dd40cd22928a1474e21c1d3420c748a&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=progress&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;progress&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;21:08:17 02/05/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=690bcdbf2dd40cd22928a1474e21c1d3420c748a&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to progress on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_68cf1d36ff31fc972635633435288236069d0b10/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-68cf1d36ff31fc972635633435288236069d0b10</link>
+
+	<pubDate>Tue, 05 Feb 2013 21:08:07 -0800</pubDate>
+	<dcterms:modified>2013-02-06T05:08:07Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-68cf1d36ff31fc972635633435288236069d0b10&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=progress&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;progress&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;21:08:07 02/05/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=68cf1d36ff31fc972635633435288236069d0b10&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+edited progress&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_0a0d50214eed6ed2b73de7050fc580609be8d1f5/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-0a0d50214eed6ed2b73de7050fc580609be8d1f5</link>
+
+	<pubDate>Tue, 05 Feb 2013 21:06:02 -0800</pubDate>
+	<dcterms:modified>2013-02-06T05:06:02Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-0a0d50214eed6ed2b73de7050fc580609be8d1f5&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;21:06:02 02/05/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=0a0d50214eed6ed2b73de7050fc580609be8d1f5&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+changed reddit link from https to http&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_f26eb8d78fb1c18e6b54aa5e398634614a330c8d/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-f26eb8d78fb1c18e6b54aa5e398634614a330c8d</link>
+
+	<pubDate>Tue, 05 Feb 2013 21:05:08 -0800</pubDate>
+	<dcterms:modified>2013-02-06T05:05:08Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-f26eb8d78fb1c18e6b54aa5e398634614a330c8d&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;21:05:08 02/05/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=f26eb8d78fb1c18e6b54aa5e398634614a330c8d&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+minor edit on main page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_a4d8be5264c02a520563a69ec6cbcfd74595b239/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-a4d8be5264c02a520563a69ec6cbcfd74595b239</link>
+
+	<pubDate>Tue, 05 Feb 2013 21:04:21 -0800</pubDate>
+	<dcterms:modified>2013-02-06T05:04:21Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-a4d8be5264c02a520563a69ec6cbcfd74595b239&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;21:04:21 02/05/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=a4d8be5264c02a520563a69ec6cbcfd74595b239&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+update main page.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_fde4ad9af038f510e9ed42bae03f81027c557902/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-fde4ad9af038f510e9ed42bae03f81027c557902</link>
+
+	<pubDate>Sat, 02 Feb 2013 21:45:36 -0800</pubDate>
+	<dcterms:modified>2013-02-03T05:45:36Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-fde4ad9af038f510e9ed42bae03f81027c557902&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;21:45:36 02/02/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=fde4ad9af038f510e9ed42bae03f81027c557902&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+changed main page.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_72e6202cda2d8bb0d86d1a603d08848942c6fa08/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-72e6202cda2d8bb0d86d1a603d08848942c6fa08</link>
+
+	<pubDate>Wed, 23 Jan 2013 00:25:37 -0800</pubDate>
+	<dcterms:modified>2013-01-23T08:25:37Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-72e6202cda2d8bb0d86d1a603d08848942c6fa08&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;00:25:37 01/23/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=72e6202cda2d8bb0d86d1a603d08848942c6fa08&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+updated main page.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_8216ffb0df39828dea7a5c0b42842f0e1d551973/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-8216ffb0df39828dea7a5c0b42842f0e1d551973</link>
+
+	<pubDate>Sat, 19 Jan 2013 14:12:58 -0800</pubDate>
+	<dcterms:modified>2013-01-19T22:12:58Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-8216ffb0df39828dea7a5c0b42842f0e1d551973&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;14:12:58 01/19/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=8216ffb0df39828dea7a5c0b42842f0e1d551973&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added link to r/hackerhive subreddit&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to learning on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_7b3e99a70468179b8da9a70071357b92ca27e93e/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-7b3e99a70468179b8da9a70071357b92ca27e93e</link>
+
+	<pubDate>Mon, 14 Jan 2013 14:55:07 -0800</pubDate>
+	<dcterms:modified>2013-01-14T22:55:07Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-7b3e99a70468179b8da9a70071357b92ca27e93e&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=learning&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;learning&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;14:55:07 01/14/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=7b3e99a70468179b8da9a70071357b92ca27e93e&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added to learning&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to learning on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_69d3ed26dccab7c3ef19a026ab854d82cb9843a8/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-69d3ed26dccab7c3ef19a026ab854d82cb9843a8</link>
+
+	<pubDate>Sat, 12 Jan 2013 20:45:33 -0800</pubDate>
+	<dcterms:modified>2013-01-13T04:45:33Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-69d3ed26dccab7c3ef19a026ab854d82cb9843a8&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=learning&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;learning&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;20:45:33 01/12/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=69d3ed26dccab7c3ef19a026ab854d82cb9843a8&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added to learning&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to learning on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_ba4bca7be8160a42768ceacdcd431d128344b6ce/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-ba4bca7be8160a42768ceacdcd431d128344b6ce</link>
+
+	<pubDate>Wed, 09 Jan 2013 17:00:09 -0800</pubDate>
+	<dcterms:modified>2013-01-10T01:00:09Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-ba4bca7be8160a42768ceacdcd431d128344b6ce&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=learning&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;learning&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;17:00:09 01/09/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=ba4bca7be8160a42768ceacdcd431d128344b6ce&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added marx and anti-marx&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to governance on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_c716843616f4c42583d076ac0ef1a86a33e27157/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-c716843616f4c42583d076ac0ef1a86a33e27157</link>
+
+	<pubDate>Wed, 09 Jan 2013 02:27:48 -0800</pubDate>
+	<dcterms:modified>2013-01-09T10:27:48Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-c716843616f4c42583d076ac0ef1a86a33e27157&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=governance&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;governance&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;02:27:48 01/09/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=c716843616f4c42583d076ac0ef1a86a33e27157&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to hive0 on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_6bc32000ee9949980767a2817249fa7ef59497c1/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-6bc32000ee9949980767a2817249fa7ef59497c1</link>
+
+	<pubDate>Wed, 09 Jan 2013 02:19:23 -0800</pubDate>
+	<dcterms:modified>2013-01-09T10:19:23Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-6bc32000ee9949980767a2817249fa7ef59497c1&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=hive0&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;hive0&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;02:19:23 01/09/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=6bc32000ee9949980767a2817249fa7ef59497c1&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added hive0 page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to hives on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_2d2e9ec57cc5c68a160dada2f0510b9ec2d78b41/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-2d2e9ec57cc5c68a160dada2f0510b9ec2d78b41</link>
+
+	<pubDate>Wed, 09 Jan 2013 02:14:28 -0800</pubDate>
+	<dcterms:modified>2013-01-09T10:14:28Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-2d2e9ec57cc5c68a160dada2f0510b9ec2d78b41&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=hives&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;hives&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;02:14:28 01/09/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=2d2e9ec57cc5c68a160dada2f0510b9ec2d78b41&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added hives page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to governance on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_dc5954edd819633eced4b0dc6bf6afb496c53a34/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-dc5954edd819633eced4b0dc6bf6afb496c53a34</link>
+
+	<pubDate>Wed, 09 Jan 2013 02:07:29 -0800</pubDate>
+	<dcterms:modified>2013-01-09T10:07:29Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-dc5954edd819633eced4b0dc6bf6afb496c53a34&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=governance&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;governance&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;02:07:29 01/09/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=dc5954edd819633eced4b0dc6bf6afb496c53a34&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+minor changes&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to governance on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_aab2b7900cd4a16389ad650fda33edac0ae18fef/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-aab2b7900cd4a16389ad650fda33edac0ae18fef</link>
+
+	<pubDate>Wed, 09 Jan 2013 02:04:23 -0800</pubDate>
+	<dcterms:modified>2013-01-09T10:04:23Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-aab2b7900cd4a16389ad650fda33edac0ae18fef&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=governance&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;governance&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;02:04:23 01/09/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=aab2b7900cd4a16389ad650fda33edac0ae18fef&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added governance page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_bc65fe9b741d99192e008a0742c1e3cd9165a9ab/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-bc65fe9b741d99192e008a0742c1e3cd9165a9ab</link>
+
+	<pubDate>Wed, 09 Jan 2013 01:52:52 -0800</pubDate>
+	<dcterms:modified>2013-01-09T09:52:52Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-bc65fe9b741d99192e008a0742c1e3cd9165a9ab&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;01:52:52 01/09/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=bc65fe9b741d99192e008a0742c1e3cd9165a9ab&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+minor changes&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to progress on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_791ab62313cc089b446e3b25622b723c00d7e06f/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-791ab62313cc089b446e3b25622b723c00d7e06f</link>
+
+	<pubDate>Wed, 09 Jan 2013 01:40:31 -0800</pubDate>
+	<dcterms:modified>2013-01-09T09:40:31Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-791ab62313cc089b446e3b25622b723c00d7e06f&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=progress&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;progress&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;01:40:31 01/09/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=791ab62313cc089b446e3b25622b723c00d7e06f&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+edited progress&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to learning on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_99f3c164b3f5b52225143dc4b420430054b85f63/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-99f3c164b3f5b52225143dc4b420430054b85f63</link>
+
+	<pubDate>Wed, 09 Jan 2013 01:02:43 -0800</pubDate>
+	<dcterms:modified>2013-01-09T09:02:43Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-99f3c164b3f5b52225143dc4b420430054b85f63&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=learning&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;learning&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;01:02:43 01/09/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=99f3c164b3f5b52225143dc4b420430054b85f63&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added ron paul video&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_3d57d2727c7d8de3bf642e0eaba233e4914208d8/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-3d57d2727c7d8de3bf642e0eaba233e4914208d8</link>
+
+	<pubDate>Fri, 04 Jan 2013 16:18:03 -0800</pubDate>
+	<dcterms:modified>2013-01-05T00:18:03Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-3d57d2727c7d8de3bf642e0eaba233e4914208d8&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;16:18:03 01/04/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=3d57d2727c7d8de3bf642e0eaba233e4914208d8&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added some info on hackers&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_43af5a926bb4bcaf3a13504610052f9138a118f2/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-43af5a926bb4bcaf3a13504610052f9138a118f2</link>
+
+	<pubDate>Thu, 03 Jan 2013 04:06:35 -0800</pubDate>
+	<dcterms:modified>2013-01-03T12:06:35Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-43af5a926bb4bcaf3a13504610052f9138a118f2&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;04:06:35 01/03/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=43af5a926bb4bcaf3a13504610052f9138a118f2&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+minor edit&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_6078a65e15df32389232b41ff44eac5bbbc8e400/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-6078a65e15df32389232b41ff44eac5bbbc8e400</link>
+
+	<pubDate>Thu, 03 Jan 2013 03:57:26 -0800</pubDate>
+	<dcterms:modified>2013-01-03T11:57:26Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-6078a65e15df32389232b41ff44eac5bbbc8e400&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;03:57:26 01/03/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=6078a65e15df32389232b41ff44eac5bbbc8e400&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added logo to front page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to learning on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_e68b25e0e7421b4fef0768cd026fbf7865d457f3/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-e68b25e0e7421b4fef0768cd026fbf7865d457f3</link>
+
+	<pubDate>Thu, 03 Jan 2013 03:30:59 -0800</pubDate>
+	<dcterms:modified>2013-01-03T11:30:59Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-e68b25e0e7421b4fef0768cd026fbf7865d457f3&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=learning&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;learning&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;03:30:59 01/03/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=e68b25e0e7421b4fef0768cd026fbf7865d457f3&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+add more to learning page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to learning on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_7b09a70cd4f5106db1b808ba3efa3046f7b1f449/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-7b09a70cd4f5106db1b808ba3efa3046f7b1f449</link>
+
+	<pubDate>Thu, 03 Jan 2013 02:54:17 -0800</pubDate>
+	<dcterms:modified>2013-01-03T10:54:17Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-7b09a70cd4f5106db1b808ba3efa3046f7b1f449&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=learning&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;learning&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;02:54:17 01/03/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=7b09a70cd4f5106db1b808ba3efa3046f7b1f449&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+populated learning material&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to progress on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_23ba0860183ad420f0411c0739b6b08945555826/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-23ba0860183ad420f0411c0739b6b08945555826</link>
+
+	<pubDate>Thu, 03 Jan 2013 02:33:31 -0800</pubDate>
+	<dcterms:modified>2013-01-03T10:33:31Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-23ba0860183ad420f0411c0739b6b08945555826&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=progress&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;progress&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;02:33:31 01/03/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=23ba0860183ad420f0411c0739b6b08945555826&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added more to progress page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_61371ff887fddbe383d989e9d38d12e66a344548/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-61371ff887fddbe383d989e9d38d12e66a344548</link>
+
+	<pubDate>Wed, 02 Jan 2013 16:15:58 -0800</pubDate>
+	<dcterms:modified>2013-01-03T00:15:58Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-61371ff887fddbe383d989e9d38d12e66a344548&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;16:15:58 01/02/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=61371ff887fddbe383d989e9d38d12e66a344548&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+removed hr&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to progress on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_ef1e9eaeefacd953a619a95dd5a6b1e55de9a54c/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-ef1e9eaeefacd953a619a95dd5a6b1e55de9a54c</link>
+
+	<pubDate>Wed, 02 Jan 2013 16:15:26 -0800</pubDate>
+	<dcterms:modified>2013-01-03T00:15:26Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-ef1e9eaeefacd953a619a95dd5a6b1e55de9a54c&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=progress&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;progress&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;16:15:26 01/02/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=ef1e9eaeefacd953a619a95dd5a6b1e55de9a54c&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+moved progress to separate page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_1ee3bae2b2bd027beb3d6e075cf0e658e2e4f09d/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-1ee3bae2b2bd027beb3d6e075cf0e658e2e4f09d</link>
+
+	<pubDate>Wed, 02 Jan 2013 16:15:03 -0800</pubDate>
+	<dcterms:modified>2013-01-03T00:15:03Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-1ee3bae2b2bd027beb3d6e075cf0e658e2e4f09d&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;16:15:03 01/02/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=1ee3bae2b2bd027beb3d6e075cf0e658e2e4f09d&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+moved progress to separate page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to learning on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_50fd2a2e001613a81d55180b5dc7edb58292b352/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-50fd2a2e001613a81d55180b5dc7edb58292b352</link>
+
+	<pubDate>Wed, 02 Jan 2013 16:14:02 -0800</pubDate>
+	<dcterms:modified>2013-01-03T00:14:02Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-50fd2a2e001613a81d55180b5dc7edb58292b352&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=learning&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;learning&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;16:14:02 01/02/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=50fd2a2e001613a81d55180b5dc7edb58292b352&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+created learning page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_6a7bf41eafaf352ca0888763bd75bf680a76e292/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-6a7bf41eafaf352ca0888763bd75bf680a76e292</link>
+
+	<pubDate>Wed, 02 Jan 2013 16:12:43 -0800</pubDate>
+	<dcterms:modified>2013-01-03T00:12:43Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-6a7bf41eafaf352ca0888763bd75bf680a76e292&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;16:12:43 01/02/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=6a7bf41eafaf352ca0888763bd75bf680a76e292&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+restructured front page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_280bfe6c8bd393f53693ab74794842014a6fc1b6/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-280bfe6c8bd393f53693ab74794842014a6fc1b6</link>
+
+	<pubDate>Tue, 01 Jan 2013 18:28:23 -0800</pubDate>
+	<dcterms:modified>2013-01-02T02:28:23Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-280bfe6c8bd393f53693ab74794842014a6fc1b6&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;18:28:23 01/01/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=280bfe6c8bd393f53693ab74794842014a6fc1b6&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+minor changes to main page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_d09e906aa56d813afdd5a6f3d7e3e8ee6b5394d0/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-d09e906aa56d813afdd5a6f3d7e3e8ee6b5394d0</link>
+
+	<pubDate>Mon, 31 Dec 2012 04:49:18 -0800</pubDate>
+	<dcterms:modified>2012-12-31T12:49:18Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-d09e906aa56d813afdd5a6f3d7e3e8ee6b5394d0&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;04:49:18 12/31/12&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=d09e906aa56d813afdd5a6f3d7e3e8ee6b5394d0&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+restructured front page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>root: change to ethics manifesto terms on hive</title>
+	<dcterms:creator>root</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_4ea0f0baff271215cfd57e82b6910899a125ea70/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-4ea0f0baff271215cfd57e82b6910899a125ea70</link>
+
+	<pubDate>Tue, 25 Dec 2012 18:59:55 -0800</pubDate>
+	<dcterms:modified>2012-12-26T02:59:55Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-4ea0f0baff271215cfd57e82b6910899a125ea70&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=ethics&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;ethics&lt;/a&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=manifesto&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;manifesto&lt;/a&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=terms&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;terms&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=root&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;root&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;06:59:55 PM 12/25/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=4ea0f0baff271215cfd57e82b6910899a125ea70&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+deleted empty files&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_78adc17e782ad89ed84c42d3ec3ad070164c4375/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-78adc17e782ad89ed84c42d3ec3ad070164c4375</link>
+
+	<pubDate>Tue, 25 Dec 2012 17:29:29 -0800</pubDate>
+	<dcterms:modified>2012-12-26T01:29:29Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-78adc17e782ad89ed84c42d3ec3ad070164c4375&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;05:29:29 PM 12/25/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=78adc17e782ad89ed84c42d3ec3ad070164c4375&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+hackerhive.net is now ssl only&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to init on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_1cbd2c1d2498be969a103efd3596fded051724d0/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-1cbd2c1d2498be969a103efd3596fded051724d0</link>
+
+	<pubDate>Tue, 25 Dec 2012 13:59:53 -0800</pubDate>
+	<dcterms:modified>2012-12-25T21:59:53Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-1cbd2c1d2498be969a103efd3596fded051724d0&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=init&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;init&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;01:59:53 PM 12/25/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=1cbd2c1d2498be969a103efd3596fded051724d0&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added more information to init page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_fba92e73d1c141fef9008562cf813d4a589aa528/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-fba92e73d1c141fef9008562cf813d4a589aa528</link>
+
+	<pubDate>Tue, 25 Dec 2012 12:31:40 -0800</pubDate>
+	<dcterms:modified>2012-12-25T20:31:40Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-fba92e73d1c141fef9008562cf813d4a589aa528&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;12:31:40 PM 12/25/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=fba92e73d1c141fef9008562cf813d4a589aa528&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+minor changes&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_76c98ce49c1669af158cf4def2541c0dcbc11a7d/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-76c98ce49c1669af158cf4def2541c0dcbc11a7d</link>
+
+	<pubDate>Mon, 10 Dec 2012 03:24:35 -0800</pubDate>
+	<dcterms:modified>2012-12-10T11:24:35Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-76c98ce49c1669af158cf4def2541c0dcbc11a7d&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;03:24:35 AM 12/10/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=76c98ce49c1669af158cf4def2541c0dcbc11a7d&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+updated main page.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_3ad22a6f3c080d80ce9d7282db8f8a9fa465054e/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-3ad22a6f3c080d80ce9d7282db8f8a9fa465054e</link>
+
+	<pubDate>Mon, 10 Dec 2012 03:20:06 -0800</pubDate>
+	<dcterms:modified>2012-12-10T11:20:06Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-3ad22a6f3c080d80ce9d7282db8f8a9fa465054e&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;03:20:06 AM 12/10/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=3ad22a6f3c080d80ce9d7282db8f8a9fa465054e&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+updated main page.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to join on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_e336a5aca28c447cb17c3dcfad418a3665427d43/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-e336a5aca28c447cb17c3dcfad418a3665427d43</link>
+
+	<pubDate>Mon, 10 Dec 2012 02:52:20 -0800</pubDate>
+	<dcterms:modified>2012-12-10T10:52:20Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-e336a5aca28c447cb17c3dcfad418a3665427d43&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=join&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;join&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;02:52:20 AM 12/10/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=e336a5aca28c447cb17c3dcfad418a3665427d43&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+moved join to new page&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to init on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_6dbc41b72e76103e961b8f8f08a39dbd6854be97/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-6dbc41b72e76103e961b8f8f08a39dbd6854be97</link>
+
+	<pubDate>Mon, 10 Dec 2012 02:48:25 -0800</pubDate>
+	<dcterms:modified>2012-12-10T10:48:25Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-6dbc41b72e76103e961b8f8f08a39dbd6854be97&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=init&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;init&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;02:48:25 AM 12/10/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=6dbc41b72e76103e961b8f8f08a39dbd6854be97&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+updated init page.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_ca35b91bedbc0785af162fc1b7b6d8e12f4933a7/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-ca35b91bedbc0785af162fc1b7b6d8e12f4933a7</link>
+
+	<pubDate>Sat, 08 Dec 2012 21:01:36 -0800</pubDate>
+	<dcterms:modified>2012-12-09T05:01:36Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-ca35b91bedbc0785af162fc1b7b6d8e12f4933a7&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;09:01:36 PM 12/08/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=ca35b91bedbc0785af162fc1b7b6d8e12f4933a7&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added observations&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_679e9f2c8d1c40b4407c63fd8f4e8313581deecd/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-679e9f2c8d1c40b4407c63fd8f4e8313581deecd</link>
+
+	<pubDate>Sat, 08 Dec 2012 21:00:40 -0800</pubDate>
+	<dcterms:modified>2012-12-09T05:00:40Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-679e9f2c8d1c40b4407c63fd8f4e8313581deecd&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;09:00:40 PM 12/08/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=679e9f2c8d1c40b4407c63fd8f4e8313581deecd&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+update main page.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to manifesto on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_852ba254f8fd4fd12992bf0342d22674921a27eb/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-852ba254f8fd4fd12992bf0342d22674921a27eb</link>
+
+	<pubDate>Sat, 08 Dec 2012 20:59:04 -0800</pubDate>
+	<dcterms:modified>2012-12-09T04:59:04Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-852ba254f8fd4fd12992bf0342d22674921a27eb&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=manifesto&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;manifesto&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;08:59:04 PM 12/08/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=852ba254f8fd4fd12992bf0342d22674921a27eb&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+delete.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to init on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_2414d30182295c4a615221ba2462184c585570eb/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-2414d30182295c4a615221ba2462184c585570eb</link>
+
+	<pubDate>Sat, 08 Dec 2012 20:58:32 -0800</pubDate>
+	<dcterms:modified>2012-12-09T04:58:32Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-2414d30182295c4a615221ba2462184c585570eb&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=init&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;init&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;08:58:32 PM 12/08/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=2414d30182295c4a615221ba2462184c585570eb&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+move manifesto to init&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to manifesto on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_613837d0620982fcd73ce26991f17a8c2167d83d/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-613837d0620982fcd73ce26991f17a8c2167d83d</link>
+
+	<pubDate>Sat, 08 Dec 2012 20:57:38 -0800</pubDate>
+	<dcterms:modified>2012-12-09T04:57:38Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-613837d0620982fcd73ce26991f17a8c2167d83d&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=manifesto&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;manifesto&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;08:57:38 PM 12/08/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=613837d0620982fcd73ce26991f17a8c2167d83d&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added final question to manifesto&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to manifesto on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_72e382829dcc1838db57ae8c09dca3bc6d796888/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-72e382829dcc1838db57ae8c09dca3bc6d796888</link>
+
+	<pubDate>Sat, 08 Dec 2012 20:52:03 -0800</pubDate>
+	<dcterms:modified>2012-12-09T04:52:03Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-72e382829dcc1838db57ae8c09dca3bc6d796888&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=manifesto&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;manifesto&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;08:52:03 PM 12/08/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=72e382829dcc1838db57ae8c09dca3bc6d796888&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+updated manifesto&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to manifesto on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_a7c55a7993924a24cbbbdc25eeb4cb2a815d2af9/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-a7c55a7993924a24cbbbdc25eeb4cb2a815d2af9</link>
+
+	<pubDate>Sat, 08 Dec 2012 20:46:31 -0800</pubDate>
+	<dcterms:modified>2012-12-09T04:46:31Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-a7c55a7993924a24cbbbdc25eeb4cb2a815d2af9&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=manifesto&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;manifesto&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;08:46:31 PM 12/08/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=a7c55a7993924a24cbbbdc25eeb4cb2a815d2af9&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+creation of manifesto page.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_20b8313282eed62ae87925846d416060bd4ec269/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-20b8313282eed62ae87925846d416060bd4ec269</link>
+
+	<pubDate>Sat, 08 Dec 2012 20:13:47 -0800</pubDate>
+	<dcterms:modified>2012-12-09T04:13:47Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-20b8313282eed62ae87925846d416060bd4ec269&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;08:13:47 PM 12/08/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=20b8313282eed62ae87925846d416060bd4ec269&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+updated intro sentence.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to ethics on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_11d717ba6b8b63a94203beacc1d26a5c8f056c0c/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-11d717ba6b8b63a94203beacc1d26a5c8f056c0c</link>
+
+	<pubDate>Sat, 08 Dec 2012 20:12:29 -0800</pubDate>
+	<dcterms:modified>2012-12-09T04:12:29Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-11d717ba6b8b63a94203beacc1d26a5c8f056c0c&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=ethics&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;ethics&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;08:12:29 PM 12/08/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=11d717ba6b8b63a94203beacc1d26a5c8f056c0c&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+delete.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to observations on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_561b81ecff93c9d1d9cfbdd36dbffab640fe6fb7/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-561b81ecff93c9d1d9cfbdd36dbffab640fe6fb7</link>
+
+	<pubDate>Sat, 08 Dec 2012 20:11:20 -0800</pubDate>
+	<dcterms:modified>2012-12-09T04:11:20Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-561b81ecff93c9d1d9cfbdd36dbffab640fe6fb7&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=observations&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;observations&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;08:11:20 PM 12/08/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=561b81ecff93c9d1d9cfbdd36dbffab640fe6fb7&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+moved info.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to terms on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_9fb778ac93821724c8f7577944f6c597b937c980/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-9fb778ac93821724c8f7577944f6c597b937c980</link>
+
+	<pubDate>Sat, 08 Dec 2012 20:08:59 -0800</pubDate>
+	<dcterms:modified>2012-12-09T04:08:59Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-9fb778ac93821724c8f7577944f6c597b937c980&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=terms&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;terms&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;08:08:59 PM 12/08/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=9fb778ac93821724c8f7577944f6c597b937c980&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+delete.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to faq on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_d648dde73ea013f17f1cf6dbfd37f7658e981e05/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-d648dde73ea013f17f1cf6dbfd37f7658e981e05</link>
+
+	<pubDate>Sat, 08 Dec 2012 20:08:40 -0800</pubDate>
+	<dcterms:modified>2012-12-09T04:08:40Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-d648dde73ea013f17f1cf6dbfd37f7658e981e05&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=faq&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;faq&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;08:08:40 PM 12/08/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=d648dde73ea013f17f1cf6dbfd37f7658e981e05&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+oops.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to terms on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_983792bced3da104a805462c92b9727ed4a55d22/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-983792bced3da104a805462c92b9727ed4a55d22</link>
+
+	<pubDate>Sat, 08 Dec 2012 20:07:59 -0800</pubDate>
+	<dcterms:modified>2012-12-09T04:07:59Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-983792bced3da104a805462c92b9727ed4a55d22&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=terms&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;terms&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;08:07:59 PM 12/08/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=983792bced3da104a805462c92b9727ed4a55d22&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+moved info to somewhere more appropriate.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_14225017421201f84515b99cbadb960f7e9d2dda/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-14225017421201f84515b99cbadb960f7e9d2dda</link>
+
+	<pubDate>Sat, 08 Dec 2012 19:59:31 -0800</pubDate>
+	<dcterms:modified>2012-12-09T03:59:31Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-14225017421201f84515b99cbadb960f7e9d2dda&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;07:59:31 PM 12/08/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=14225017421201f84515b99cbadb960f7e9d2dda&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+updated main page.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to tech on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_f4d9fdb7ae3ac6310d1c36ec4cc23762fac0ed60/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-f4d9fdb7ae3ac6310d1c36ec4cc23762fac0ed60</link>
+
+	<pubDate>Mon, 03 Dec 2012 16:16:01 -0800</pubDate>
+	<dcterms:modified>2012-12-04T00:16:01Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-f4d9fdb7ae3ac6310d1c36ec4cc23762fac0ed60&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=tech&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;tech&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;04:16:01 PM 12/03/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=f4d9fdb7ae3ac6310d1c36ec4cc23762fac0ed60&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_776b30136069da36205d98ef55a8dee008486cb3/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-776b30136069da36205d98ef55a8dee008486cb3</link>
+
+	<pubDate>Thu, 29 Nov 2012 17:58:40 -0800</pubDate>
+	<dcterms:modified>2012-11-30T01:58:40Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-776b30136069da36205d98ef55a8dee008486cb3&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;05:58:40 PM 11/29/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=776b30136069da36205d98ef55a8dee008486cb3&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+fixed mailing list info&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_548d423fa938d8eb87cf1adf25b323c0b7e20eac/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-548d423fa938d8eb87cf1adf25b323c0b7e20eac</link>
+
+	<pubDate>Thu, 29 Nov 2012 17:43:40 -0800</pubDate>
+	<dcterms:modified>2012-11-30T01:43:40Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-548d423fa938d8eb87cf1adf25b323c0b7e20eac&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;05:43:40 PM 11/29/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=548d423fa938d8eb87cf1adf25b323c0b7e20eac&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+filled in index and added some todo&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_f9a876bad33a18121f4a8fb2a31038faea144ca4/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-f9a876bad33a18121f4a8fb2a31038faea144ca4</link>
+
+	<pubDate>Tue, 27 Nov 2012 18:17:57 -0800</pubDate>
+	<dcterms:modified>2012-11-28T02:17:57Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-f9a876bad33a18121f4a8fb2a31038faea144ca4&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;06:17:57 PM 11/27/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=f9a876bad33a18121f4a8fb2a31038faea144ca4&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+made mailing list link&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to ethics on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_15ad270fb6a2ef8daad9e2a9468ec2f55c44dce3/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-15ad270fb6a2ef8daad9e2a9468ec2f55c44dce3</link>
+
+	<pubDate>Tue, 27 Nov 2012 17:58:28 -0800</pubDate>
+	<dcterms:modified>2012-11-28T01:58:28Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-15ad270fb6a2ef8daad9e2a9468ec2f55c44dce3&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=ethics&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;ethics&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;05:58:28 PM 11/27/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=15ad270fb6a2ef8daad9e2a9468ec2f55c44dce3&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+fixed links on ethics observations&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to ethics on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_6d72a9e26f000c125dd498f30ee5458ebc0882aa/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-6d72a9e26f000c125dd498f30ee5458ebc0882aa</link>
+
+	<pubDate>Tue, 27 Nov 2012 17:50:38 -0800</pubDate>
+	<dcterms:modified>2012-11-28T01:50:38Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-6d72a9e26f000c125dd498f30ee5458ebc0882aa&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=ethics&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;ethics&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;05:50:38 PM 11/27/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=6d72a9e26f000c125dd498f30ee5458ebc0882aa&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+updated ethics with observations&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to ethics on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_fecd8af7d854653eadf4e1c543aae9a4cd67bf77/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-fecd8af7d854653eadf4e1c543aae9a4cd67bf77</link>
+
+	<pubDate>Tue, 27 Nov 2012 17:28:04 -0800</pubDate>
+	<dcterms:modified>2012-11-28T01:28:04Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-fecd8af7d854653eadf4e1c543aae9a4cd67bf77&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=ethics&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;ethics&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;05:28:04 PM 11/27/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=fecd8af7d854653eadf4e1c543aae9a4cd67bf77&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+fix headers on ethics&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to ethics index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_02b00b8629abc1f8ec47e821b273a11789bb2776/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-02b00b8629abc1f8ec47e821b273a11789bb2776</link>
+
+	<pubDate>Tue, 27 Nov 2012 17:26:22 -0800</pubDate>
+	<dcterms:modified>2012-11-28T01:26:22Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-02b00b8629abc1f8ec47e821b273a11789bb2776&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=ethics&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;ethics&lt;/a&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;05:26:22 PM 11/27/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=02b00b8629abc1f8ec47e821b273a11789bb2776&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+first draft introduction&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to index on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_46380d7336a207aad6d1572723073d00b70c5474/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-46380d7336a207aad6d1572723073d00b70c5474</link>
+
+	<pubDate>Tue, 27 Nov 2012 17:00:15 -0800</pubDate>
+	<dcterms:modified>2012-11-28T01:00:15Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-46380d7336a207aad6d1572723073d00b70c5474&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;05:00:15 PM 11/27/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=46380d7336a207aad6d1572723073d00b70c5474&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+testing change via web&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>michael: change to .gitignore on hive</title>
+	<dcterms:creator>michael</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://hackerhive.net/recentchanges/change_ad2975069d545e888b1172fa53d90e30ad597350/</guid>
+
+	<link>http://hackerhive.net/recentchanges/#change-ad2975069d545e888b1172fa53d90e30ad597350</link>
+
+	<pubDate>Thu, 22 Nov 2012 03:31:27 -0800</pubDate>
+	<dcterms:modified>2012-11-22T11:31:27Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-ad2975069d545e888b1172fa53d90e30ad597350&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=.gitignore&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;.gitignore&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?page=michael&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;michael&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;03:31:27 AM 11/22/2012&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://hackerhive.net/ikiwiki.cgi?rev=ad2975069d545e888b1172fa53d90e30ad597350&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://hackerhive.net/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+initial commit&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+
+</channel>
+</rss>
